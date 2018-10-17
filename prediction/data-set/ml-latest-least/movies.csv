@@ -1,0 +1,8 @@
+movieId,title,genres
+1,M1,G1|G2|G3
+2,M2,G2|G3
+3,M3,G3|G1
+4,M4,G2
+5,M5,G1
+6,M6,G3
+7,M7,G1|G2
